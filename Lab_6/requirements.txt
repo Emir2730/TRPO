@@ -1,0 +1,9 @@
+sqlalchemy
+pydantic
+fastapi
+alembic
+uvicorn
+pytest
+httpx
+coverage
+pytest-cov
