@@ -1,4 +1,4 @@
-from src.services.db import SessionLocal
+from services.db import SessionLocal
 
 
 def db_session():
